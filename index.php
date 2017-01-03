@@ -6,5 +6,6 @@ echo "<h2>Client IP</h2>";
 echo "Your IP address : " . $ip;
 echo "<h2>Hostname</h2>";
 echo "Server Hostname: " . php_uname("n");
-echo "Region/Zone: " . "region-here";
+echo "<h2>Server Location<h2>;
+echo "Region and Zone: " . "region-here";
 ?>
